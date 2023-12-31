@@ -1,4 +1,4 @@
-This code uses the ccxt library to access the exchange ByBit to get Bitcoin data. 
+This code in btc_price_code uses the ccxt library to access the exchange ByBit to get Bitcoin data. 
 
 We collected OHLCV data on Bitcoin every 5 minutes over the past 90 days. We created two data frames, one for BTC price over the weekdays vs weekend for easy analysis. 
 
